@@ -20,6 +20,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nabarun-sarkar-07529a267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nabarun-sarkar-07529a267/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nabaruns277" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nabaruns277" height="30" width="40" /></a>
 <a href="https://discord.gg/nabaruns_49697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nabaruns_49697" height="30" width="40" /></a>
+  <a href="https://soliditylang.org/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
