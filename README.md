@@ -51,4 +51,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabarun-19&show_icons=true&locale=en" alt="nabarun-19" /></p>
 
-<a href="https://app.daily.dev/nabarunsarkar"><img src="https://api.daily.dev/devcards/v2/x8e6FPdb0x7f38DWRemET.png?type=default&r=2un" width="356" alt="NABARUN SARKAR's Dev Card"/></a>
+<a href="https://app.daily.dev/nabarunsarkar"><img src="https://api.daily.dev/devcards/v2/x8e6FPdb0x7f38DWRemET.png?type=wide&r=2un" width="652" alt="NABARUN SARKAR's Dev Card"/></a>
